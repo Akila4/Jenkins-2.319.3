@@ -1,0 +1,14 @@
+[master@Master vault-manifests]$ kubectl exec vault-0 -n kube-system  -- vault login $VAULT_ROOT_KEY
+Success! You are now authenticated. The token information displayed below
+is already stored in the token helper. You do NOT need to run "vault login"
+again. Future Vault requests will automatically use this token.
+
+Key                  Value
+---                  -----
+token                s.Km2yM73Y4baayXPGme42bYN3
+token_accessor       WRjXwOveNVtjudJE2YtfNySq
+token_duration       ∞
+token_renewable      false
+token_policies       ["root"]
+identity_policies    []
+policies             ["root"]

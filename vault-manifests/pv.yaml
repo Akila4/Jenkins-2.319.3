@@ -1,0 +1,17 @@
+kind: PersistentVolume
+apiVersion: v1
+metadata:
+  name: data-vault-0-pvvolume
+spec:
+  storageClassName: ""
+  capacity:
+    storage: 2Gi
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: "/tmp"
+  volumeMode: Filesystem
+  claimRef:
+    kind: PersistentVolumeClaim
+    namespace: kube-system
+    name: data-vault-0
