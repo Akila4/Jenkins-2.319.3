@@ -1,0 +1,25 @@
+
+NAME              						INTERNAL-IP                                  
+dcapiadvpr01                             10.142.15.253          
+dcapiadvpr02                             10.142.15.249          
+dcapigekpr01                              10.142.15.228          
+dcapigekpr02                             10.142.15.225          
+dcapitsapr01                             10.142.15.239          
+dcapitsapr02                              10.142.15.236          
+dcefkmonpr01                             10.142.15.247          
+dcefkmonpr02                             10.142.15.243          
+dcesbmwspr01                             10.142.15.227          
+dcesbmwspr02                             10.142.15.224          
+dckubmpr01         control-plane,master        10.142.15.254          
+dcsndapipr01                             10.142.15.231          
+dcsndapipr02                             10.142.15.232          
+dcsndboxpr01                             10.142.15.238          
+dcsndboxpr02                             10.142.15.235          
+dcsndekpr01                              10.142.15.226          
+dcsndekpr02                              10.142.15.223          
+dcsndumpr01                              10.142.15.230          
+dcwmmsrpr01                              10.142.15.248          
+dcwmmsrpr02                              10.142.15.244          
+dcwmmsrpr03                              10.142.15.242          
+dcwmumpr01                               10.142.15.251          
+dcwmumpr02                               10.142.15.237          

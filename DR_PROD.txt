@@ -1,0 +1,26 @@
+
+NAME               							   INTERNAL-IP       
+drapiadvpr01                                10.172.19.253          
+drapiadvpr02                                10.172.19.249          
+drapigekpr01                                10.172.19.228           
+drapigekpr02                                10.172.19.225           
+drapitsapr01                                10.172.19.239          
+drapitsapr02                             	10.172.19.236          
+drefkmonpr01                                10.172.19.247          
+drefkmonpr02                                10.172.19.243          
+dresbmwspr01                             	10.172.19.227           
+drkubmpr01           control-plane,master   10.172.19.254          
+drkubmpr02           control-plane,master   10.172.19.250          
+drkubmpr03           control-plane,master   10.172.19.246          
+drsbmwspr02                                 10.172.19.224           
+drsndapipr01                                10.172.19.231           
+drsndapipr02                                10.172.19.232          
+drsndboxpr01                                10.172.19.238          
+drsndboxpr02                                10.172.19.235          
+drsndekpr01                                 10.172.19.226          
+drsndekpr02                                 10.172.19.223           
+drsndumpr01                                 10.172.19.230           
+drwmmsrpr01                                 10.172.19.248          
+drwmmsrpr02                                 10.172.19.244          
+drwmmsrpr03                                 10.172.19.242          
+drwmumpr01                                  10.172.19.251          

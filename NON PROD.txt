@@ -1,0 +1,28 @@
+
+NAME              						INTERNAL-IP                                
+dcapiadvdev01                             10.143.140.130          
+dcapiekdev01                              10.143.140.129          
+dcapiekst01                               10.143.140.134         
+dcapiekuat01                              10.143.140.141          
+dcapiporst01                              10.143.140.135         
+dcapiportrn01                             10.143.140.138          
+dcapiporuat01                             10.143.140.148          
+dcapiporuat02                             10.143.140.147          
+dcapitsauat01                             10.143.140.116          
+dcapitsauat02                             10.143.140.115          
+dcefkmonnp01                              10.143.140.126          
+dcesbmwsdev01                             10.143.140.105          
+dcesbmwsst01                              10.143.140.106         
+dcesbmwstrn01                             10.143.140.107          
+dcesbmwsuat01                             10.143.140.108         
+dckubmnp01          control-plane,master  10.143.140.125          
+dcwmmsrdev01                              10.143.140.128          
+dcwmmsrtrn01                              10.143.140.137         
+dcwmmsrtst01                              10.143.140.133         
+dcwmmsruat01                              10.143.140.146         
+dcwmmsruat02                              10.143.140.145         
+dcwmumdev01                               10.143.140.127          
+dcwmumnp01                                10.143.140.144         
+dcwmumnp02                                10.143.140.139         
+dcwmumtrn01                               10.143.140.136         
+dcwmumtst01                               10.143.140.132         
